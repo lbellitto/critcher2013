@@ -1,6 +1,6 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of Study \"How Quick Decisions Illuminate Moral Character\" by Clayton R. Critcher, Yoel Inbar and David A. Pizarro (2013, Psychological Science)"
+author: "Luna Bellitto (lbellitto@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
@@ -11,9 +11,15 @@ format:
 <!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
 
 ## Introduction
+My research interest is in international affairs, specifically I am interested in understanding political dynamics. Recently, I have been trying to understand the relationship between politics and social polarization, leading to ideological (and concrete) conflicts within groups based in the perception of being different from one another. This experiment is compelling to me because it addresses the potential of misleading and misunderstanding that occurs when people categorize each other, resulting in a societal schism. The quick and mislead judgment of members of society, as in this case, can create a separation between “me” and the “other,” the “moral” vs the “immoral” ones. However, recognizing these misinterpretations is of primary importance to understand that this division is more abstract and constructed than real. 
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+In order to conduct this experiment (Experiment 1), some procedures need to be followed. A sample of around 100 people will be required. Participants will be presented to a scenario involving two people, Justin and Nate, who find a wallet full of cash, and they need to decide if return it to the police or not. In both cases, Justin will make a quick decision while Nate will take a longer time before arriving to his choice. In this case, we will manipulate the speed of the decision. Afterwards, participants will evaluate if Justin and Nate have good/bad principles and standards based on the following criteria: how conflicted each subject was in taking the decision, the reservations that they had, their certainty in the decision taken, and the likelihood of taking the other decision. 
 
+In this experiment, it is important to have a wide sample to ensure randomization. For example, randomization would be essential in minimizing biases regarding inner morality: if a participant is likely to keep the money, they would hardly judge one of the scenarios as immoral. Consequently, randomization and attention to the context’s details will be essential to minimize the impact of confounding variables. Another challenge will be ensuring to correctly replicate the original experiment: the wording of the texts given to participants needs to respect the one of the original, particularly with respect to the emphasis on decision speed.  Indeed, speed in decision taking was the mainstream element that linked to perception of certainty in the previous experiment. 
+
+[Repository](https://github.com/lbellitto/critcher2013) 
+
+[Link to original paper](https://github.com/lbellitto/critcher2013/blob/main/original_paper/Critcher_et_al_2013.pdf)
 
 ## Methods
 
